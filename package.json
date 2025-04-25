@@ -1,0 +1,15 @@
+{
+  "name": "travel-agency-blog",
+  "version": "1.0.0",
+  "description": "![logo](https://user-images.githubusercontent.com/44912347/201777855-5f12766c-fd1f-4601-90d2-452af55fed8a.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
